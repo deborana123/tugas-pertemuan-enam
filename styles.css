@@ -1,16 +1,16 @@
 body {
-  text-align:center;
+  text-align: center;
   background-color: #637BAD;
 }
 .top-container {
   padding-top: 50px;
 }
 .cloudd {
-     position:absolute;
+     position: absolute;
      right:200px;
      top: 22px
 }
 .clouddd {
-     position:absolute;
-     left:200px;
+     position: absolute;
+     left: 200px;
 }
